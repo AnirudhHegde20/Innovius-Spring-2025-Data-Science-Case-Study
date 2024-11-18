@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+spacy
+sentence-transformers
+sklearn
+seaborn
+matplotlib
+streamlit
+faiss-cpu
+apache-airflow
